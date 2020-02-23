@@ -1,0 +1,23 @@
+{
+  "name": "novel-JinYong",
+  "version": "1.0.0",
+  "description": "此书用来介绍金庸先生的4本著作，《书剑恩仇录》、《碧血剑》、《射雕英雄传》、《神雕侠侣》。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangxindi2017/novel-JinYong.git"
+  },
+  "keywords": [],
+  "author": "yangxindi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangxindi2017/novel-JinYong/issues"
+  },
+  "homepage": "https://github.com/yangxindi2017/novel-JinYong#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
